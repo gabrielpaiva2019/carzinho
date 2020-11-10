@@ -9,5 +9,6 @@ public class UsuariosController {
     @GetMapping
     public String index(){
         return "Hello world";
+        
     }
 }
